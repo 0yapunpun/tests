@@ -1,3 +1,134 @@
 {
-  "hola": "puta"
+    "widget1635601832013": {
+        "id": 1635601832013,
+        "classes": "widgetA",
+        "widgetIndex": "0",
+        "styles": "width: 303.656px; height: 503px;"
+    },
+    "widget1635601833996": {
+        "id": 1635601833996,
+        "classes": "widgetB",
+        "widgetIndex": "1",
+        "styles": "height: 381px;"
+    },
+    "widget1635601836280": {
+        "id": 1635601836280,
+        "classes": "widgetC",
+        "widgetIndex": "2",
+        "styles": "width: 360px;"
+    },
+    "widget1635601849543": {
+        "id": 1635601849543,
+        "classes": "widgetD",
+        "styles": "width: 1090px;",
+        "widgetIndex": "3",
+        "data": {
+            "title" : "tabla5",
+            "body" : 
+            [
+                {
+                "id": 4848,
+                "id_person": 950029,
+                "nombre": "Edwin  Serrano Rojas",
+                "nit": "6",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                },
+                {
+                "id": 4849,
+                "id_person": 950030,
+                "nombre": "Representaciones De  Fabrica ",
+                "nit": "10",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                },
+                {
+                "id": 4850,
+                "id_person": 950031,
+                "nombre": "Contabilidad  IGB ",
+                "nit": "22",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                },
+                {
+                "id": 4851,
+                "id_person": 950032,
+                "nombre": "Yuly Yasbleidy Peña Murcia",
+                "nit": "32",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                },
+                {
+                "id": 4852,
+                "id_person": 950033,
+                "nombre": "Sebastian  Kiza Lancheros",
+                "nit": "56",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                },
+                {
+                "id": 4853,
+                "id_person": 950034,
+                "nombre": "Bernardo Adolfo Buitrago Sanchez",
+                "nit": "82",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                }
+            ]
+        }
+    }
 }
