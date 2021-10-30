@@ -1,0 +1,70 @@
+{
+        "title" : "tabla4",
+        "body" : [
+          {
+        "nit": "C900350028",
+        "cliente": null,
+        "documentos": 1,
+        "total": 2560500
+        },
+        {
+        "nit": "C900673058",
+        "cliente": null,
+        "documentos": 1,
+        "total": 4578550
+        },
+        {
+        "nit": "C10182813",
+        "cliente": "10182813-8 - ESPAMOTOS Y/O PAYARES MARTINEZ HECTOR MANUEL",
+        "documentos": 1,
+        "total": 998955
+        },
+        {
+        "nit": "C1061778156",
+        "cliente": "1061778156-2 - MAXIREPUESTOS M & A Y/O MUÑOZ RODRIGUEZ ANDRES LEO",
+        "documentos": 1,
+        "total": 2337600
+        },
+        {
+        "nit": "C1123320866",
+        "cliente": "1123320866-1 - TRUJILLO ROMERO JAIRO KENNEDY",
+        "documentos": 1,
+        "total": 225700
+        },
+        {
+        "nit": "C1123320866",
+        "cliente": "1123320866-1 - TRUJILLO ROMERO JAIRO KENNEDY",
+        "documentos": 1,
+        "total": 2489250
+        },
+        {
+        "nit": "C1143137105",
+        "cliente": "1143137105-4 - SOLO MOTOS RACING Y/O MAFIOL GALINDO SORLLEY MERCE",
+        "documentos": 1,
+        "total": 992400
+        },
+        {
+        "nit": "C12229130",
+        "cliente": "12229130-8 - QUIROGA VEGA JUAN CARLOS",
+        "documentos": 1,
+        "total": 158800
+        },
+        {
+        "nit": "C12229130",
+        "cliente": "12229130-8 - QUIROGA VEGA JUAN CARLOS",
+        "documentos": 1,
+        "total": 290400
+        },
+        {
+        "nit": "C12229130",
+        "cliente": "12229130-8 - QUIROGA VEGA JUAN CARLOS",
+        "documentos": 1,
+        "total": 736600
+        },
+        {
+        "nit": "C12229130",
+        "cliente": "12229130-8 - QUIROGA VEGA JUAN CARLOS",
+        "documentos": 1,
+        "total": 1548900
+        }]
+}
