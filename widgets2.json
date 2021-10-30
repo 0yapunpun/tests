@@ -116,6 +116,57 @@
                 "pqr": 0,
                 "tareas": 0,
                 "gestion": 0
+                },
+                {
+                "id": 4851,
+                "id_person": 333,
+                "nombre": "Yuly Yasbleidy Peña Murcia",
+                "nit": "32",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                },
+                {
+                "id": 4852,
+                "id_person": 333,
+                "nombre": "Sebastian  Kiza Lancheros",
+                "nit": "56",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
+                },
+                {
+                "id": 4853,
+                "id_person": 333,
+                "nombre": "Bernardo Adolfo Buitrago Sanchez",
+                "nit": "82",
+                "bodega": "Bodega General",
+                "cargo": "Vendedor",
+                "prospectos": 0,
+                "cotizaciones": 0,
+                "visitas": 0,
+                "correos": 0,
+                "llamadas": 0,
+                "recordatorios": 0,
+                "pqr": 0,
+                "tareas": 0,
+                "gestion": 0
                 }
             ]
         }
