@@ -1,0 +1,82 @@
+[
+  {
+    "board": "pendientes",
+    "items": [
+      {
+        "id": "board1Task1",
+        "title": "First element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board1Task2",
+        "title": "Second element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board1Task3",
+        "title": "Third element",
+        "class": ["border-radius-md"]
+      }
+    ]
+  },
+  {
+  "board": "curso",
+  "items": [
+      {
+        "id": "board2Task1",
+        "title": "First element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board2Task2",
+        "title": "Second element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board2Task3",
+        "title": "Third element",
+        "class": ["border-radius-md"]
+      }
+    ]
+  },
+  {
+  "board": "pruebas",
+  "items": [
+      {
+        "id": "board3Task1",
+        "title": "First element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board3Task2",
+        "title": "Second element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board3Task3",
+        "title": "Third element",
+        "class": ["border-radius-md"]
+      }
+    ]
+  }
+  {
+  "board": "cerradas",
+  "items": [
+      {
+        "id": "board4Task1",
+        "title": "First element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board4Task2",
+        "title": "Second element",
+        "class": ["border-radius-md"]
+      },
+      {
+        "id": "board4Task3",
+        "title": "Third element",
+        "class": ["border-radius-md"]
+      }
+    ]
+  } 
+]
