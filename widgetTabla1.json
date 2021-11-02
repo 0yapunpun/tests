@@ -1,1 +1,109 @@
-
+{
+        "title" : "tabla1",
+        "body" : [
+                {
+                    "vendedor": null,
+                    "nit": "194",
+                    "bodega": null,
+                    "valor": 6466250,
+                    "cantidad": 2,
+                    "clientes": 2
+                    },
+                    {
+                    "vendedor": null,
+                    "nit": "195",
+                    "bodega": null,
+                    "valor": 7139050,
+                    "cantidad": 2,
+                    "clientes": 2
+                    },
+                    {
+                    "vendedor": null,
+                    "nit": "196",
+                    "bodega": null,
+                    "valor": 5286600,
+                    "cantidad": 1,
+                    "clientes": 1
+                    },
+                    {
+                    "vendedor": "Bernardo Adolfo Buitrago Sanchez",
+                    "nit": "82",
+                    "bodega": 3,
+                    "valor": 1228800,
+                    "cantidad": 1,
+                    "clientes": 1
+                    },
+                    {
+                    "vendedor": "Contabilidad  IGB",
+                    "nit": "22",
+                    "bodega": 2,
+                    "valor": 369280,
+                    "cantidad": 3,
+                    "clientes": 1
+                    },
+                    {
+                    "vendedor": "Cristhian Camilo Cardenas Quintero",
+                    "nit": "154",
+                    "bodega": 2,
+                    "valor": 1027400,
+                    "cantidad": 1,
+                    "clientes": 1
+                    },
+                    {
+                    "vendedor": "Cristhian Javier Henao Rueda",
+                    "nit": "166",
+                    "bodega": 2,
+                    "valor": 16278094,
+                    "cantidad": 11,
+                    "clientes": 9
+                    },
+                    {
+                    "vendedor": "Danner Prieto",
+                    "nit": "184",
+                    "bodega": 5,
+                    "valor": 1497650,
+                    "cantidad": 1,
+                    "clientes": 1
+                    },
+                    {
+                    "vendedor": "David Dario Perez Osorio",
+                    "nit": "105",
+                    "bodega": 4,
+                    "valor": 2011800,
+                    "cantidad": 3,
+                    "clientes": 3
+                    },
+                    {
+                    "vendedor": "Diana Marcela Londoño Toro",
+                    "nit": "158",
+                    "bodega": 3,
+                    "valor": 19319715,
+                    "cantidad": 6,
+                    "clientes": 2
+                    },
+                    {
+                    "vendedor": "Edier Albeiro Diaz  Castrillon",
+                    "nit": "131",
+                    "bodega": 3,
+                    "valor": 5546800,
+                    "cantidad": 5,
+                    "clientes": 3
+                    },
+                    {
+                    "vendedor": "Edwin  Serrano Rojas",
+                    "nit": "6",
+                    "bodega": 1,
+                    "valor": 7291000,
+                    "cantidad": 2,
+                    "clientes": 2
+                    },
+                    {
+                    "vendedor": "Fredi Alexander Pinta Betancur",
+                    "nit": "172",
+                    "bodega": 6,
+                    "valor": 6173150,
+                    "cantidad": 7,
+                    "clientes": 3
+                    }
+             ]
+}
