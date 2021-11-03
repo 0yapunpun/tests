@@ -11,14 +11,14 @@
       },
       {
         "id": "board1Task2",
-        "title": "Second element",
+        "title": "<p>Second element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
       },
       {
         "id": "board1Task3",
-        "title":  "third element",
+        "title":  "<p>third element</p>",
         "class": ["border-radius-md"]
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
@@ -30,21 +30,21 @@
   "items": [
       {
         "id": "board2Task1",
-        "title": "First element",
+        "title": "<p>First element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
       },
       {
         "id": "board2Task2",
-        "title": "Second element",
+        "title": "<p>Second element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
       },
       {
         "id": "board2Task3",
-        "title": "third element",
+        "title": "<p>third element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
@@ -56,21 +56,21 @@
   "items": [
       {
         "id": "board3Task1",
-        "title": "First element",
+        "title": "<p>First element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",  
       },
       {
         "id": "board3Task2",
-        "title": "Second element",
+        "title": "<p>Second element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
       },
       {
         "id": "board3Task3",
-        "title": "third element",
+        "title": "<p>third element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
@@ -82,21 +82,21 @@
   "items": [
       {
         "id": "board4Task1",
-        "title": "First element",
+        "title": "<p>First element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
       },
       {
         "id": "board4Task2",
-        "title": "Second element",
+        "title": "<p>Second element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
       },
       {
         "id": "board4Task3",
-        "title": "third element",
+        "title": "<p>third element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
