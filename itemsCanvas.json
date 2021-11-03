@@ -19,7 +19,7 @@
       {
         "id": "board1Task3",
         "title":  "<p>third element</p>",
-        "class": ["border-radius-md"]
+        "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
       }
