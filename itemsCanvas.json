@@ -4,7 +4,7 @@
     "items": [
       {
         "id": "board1Task1",
-        "title": "First element",
+        "title": "<p>First element</p>",
         "class": ["border-radius-md"],
         "assignee": "Done Joe",
         "description": "This task's description is for something, but not for anything",
