@@ -5,22 +5,6 @@
 "detail_activity": {
 "detail": [
 {
-"id": "1636056764622",
-"id_activity": 213,
-"id_type_field": 8,
-"description": "encabezado de incidente",
-"checked": "false",
-"field_check": "0",
-"order_f": 1,
-"parent": "",
-"id_master": null,
-"required": 0,
-"multiple": 0,
-"resume": 0,
-"next_format": 0,
-"helpdesk": 0
-},
-{
 "id": "1636056782022",
 "id_activity": 213,
 "id_type_field": 1,
@@ -29,6 +13,22 @@
 "field_check": "0",
 "order_f": 2,
 "parent": "1636056764622",
+"id_master": null,
+"required": 0,
+"multiple": 0,
+"resume": 0,
+"next_format": 0,
+"helpdesk": 0
+},
+{
+"id": "1636056764622",
+"id_activity": 213,
+"id_type_field": 8,
+"description": "encabezado de incidente",
+"checked": "false",
+"field_check": "0",
+"order_f": 1,
+"parent": "",
 "id_master": null,
 "required": 0,
 "multiple": 0,
