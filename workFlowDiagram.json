@@ -1,0 +1,392 @@
+{
+	"success": true,
+	"message": "",
+	"error": "",
+	"groups": [{
+			"id": 10,
+			"code": "01",
+			"description": "Novedades",
+			"workflow": [{
+				"id": 24,
+				"name": "Soportes",
+				"due_days": 0,
+				"id_group": 10,
+				"nodes": [{
+						"id": 128,
+						"id_workflow": 24,
+						"identifier": "node66plumb1550757875367",
+						"id_node": 66,
+						"offsetleft": 93,
+						"offsettop": 4,
+						"order_n": 1,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 138,
+							"id_workflow_node": 128,
+							"identifier": "con_6",
+							"source": "node66plumb1550757875367",
+							"target": "node67plumb1550757882996",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 129,
+						"id_workflow": 24,
+						"identifier": "node67plumb1550757882996",
+						"id_node": 67,
+						"offsetleft": 129,
+						"offsettop": 172,
+						"order_n": 2,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+								"id": 139,
+								"id_workflow_node": 129,
+								"identifier": "con_123",
+								"source": "node67plumb1550757882996",
+								"target": "node68plumb1550757902328",
+								"anchors": "\"[[],[]]\""
+							},
+							{
+								"id": 140,
+								"id_workflow_node": 129,
+								"identifier": "con_110",
+								"source": "node67plumb1550757882996",
+								"target": "node69plumb1550757889584",
+								"anchors": "\"[[],[]]\""
+							}
+						]
+					},
+					{
+						"id": 130,
+						"id_workflow": 24,
+						"identifier": "node68plumb1550757902328",
+						"id_node": 68,
+						"offsetleft": 558,
+						"offsettop": 275,
+						"order_n": 3,
+						"line": 2,
+						"areas": [],
+						"connections": [{
+							"id": 141,
+							"id_workflow_node": 130,
+							"identifier": "con_149",
+							"source": "node68plumb1550757902328",
+							"target": "node69plumb1550757889584",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 131,
+						"id_workflow": 24,
+						"identifier": "node69plumb1550757889584",
+						"id_node": 69,
+						"offsetleft": 73,
+						"offsettop": 403,
+						"order_n": 4,
+						"line": 2,
+						"areas": [],
+						"connections": [{
+							"id": 142,
+							"id_workflow_node": 131,
+							"identifier": "con_136",
+							"source": "node69plumb1550757889584",
+							"target": "node70plumb1550757894974",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 132,
+						"id_workflow": 24,
+						"identifier": "node70plumb1550757894974",
+						"id_node": 70,
+						"offsetleft": 306,
+						"offsettop": 550,
+						"order_n": 5,
+						"line": 2,
+						"areas": [],
+						"connections": [{
+							"id": 143,
+							"id_workflow_node": 132,
+							"identifier": "con_136",
+							"source": "node70plumb1550757894974",
+							"target": "",
+							"anchors": "\"[[],[]]\""
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"id": 11,
+			"code": "002",
+			"description": "PRUEBAS",
+			"workflow": [{
+				"id": 25,
+				"name": "Llenado Aut.",
+				"due_days": 0,
+				"id_group": 11,
+				"nodes": [{
+						"id": 133,
+						"id_workflow": 25,
+						"identifier": "node71plumb1551191815997",
+						"id_node": 71,
+						"offsetleft": 268,
+						"offsettop": 43,
+						"order_n": 1,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 144,
+							"id_workflow_node": 133,
+							"identifier": "con_18",
+							"source": "node71plumb1551191815997",
+							"target": "node72plumb1551191818816",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 134,
+						"id_workflow": 25,
+						"identifier": "node72plumb1551191818816",
+						"id_node": 72,
+						"offsetleft": 261,
+						"offsettop": 241,
+						"order_n": 2,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 145,
+							"id_workflow_node": 134,
+							"identifier": "con_31",
+							"source": "node72plumb1551191818816",
+							"target": "node70plumb1551191820519",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 135,
+						"id_workflow": 25,
+						"identifier": "node70plumb1551191820519",
+						"id_node": 70,
+						"offsetleft": 269,
+						"offsettop": 461,
+						"order_n": 3,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 146,
+							"id_workflow_node": 135,
+							"identifier": "con_31",
+							"source": "node70plumb1551191820519",
+							"target": "",
+							"anchors": "\"[[],[]]\""
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"id": 12,
+			"code": "03",
+			"description": "Prueba Procesos",
+			"workflow": [{
+				"id": 26,
+				"name": "Prueba Procesos",
+				"due_days": 0,
+				"id_group": 12,
+				"nodes": [{
+						"id": 136,
+						"id_workflow": 26,
+						"identifier": "node66plumb1552339467988",
+						"id_node": 66,
+						"offsetleft": 92,
+						"offsettop": 142,
+						"order_n": 1,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 147,
+							"id_workflow_node": 136,
+							"identifier": "con_18",
+							"source": "node66plumb1552339467988",
+							"target": "node70plumb1552339470004",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 137,
+						"id_workflow": 26,
+						"identifier": "node70plumb1552339470004",
+						"id_node": 70,
+						"offsetleft": 463,
+						"offsettop": 179,
+						"order_n": 2,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 148,
+							"id_workflow_node": 137,
+							"identifier": "con_18",
+							"source": "node70plumb1552339470004",
+							"target": "",
+							"anchors": "\"[[],[]]\""
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"id": 20,
+			"code": "0001",
+			"description": "Soporte",
+			"workflow": [{
+				"id": 45,
+				"name": "Reporte Incidencia",
+				"due_days": 0,
+				"id_group": 20,
+				"nodes": [{
+						"id": 174,
+						"id_workflow": 45,
+						"identifier": "node85plumb1560208135446",
+						"id_node": 85,
+						"offsetleft": 70,
+						"offsettop": 151,
+						"order_n": 1,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 185,
+							"id_workflow_node": 174,
+							"identifier": "con_6",
+							"source": "node85plumb1560208135446",
+							"target": "node84plumb1560208138683",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 175,
+						"id_workflow": 45,
+						"identifier": "node84plumb1560208138683",
+						"id_node": 84,
+						"offsetleft": 450,
+						"offsettop": 171,
+						"order_n": 2,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 186,
+							"id_workflow_node": 175,
+							"identifier": "con_6",
+							"source": "node84plumb1560208138683",
+							"target": "",
+							"anchors": "\"[[],[]]\""
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"id": 21,
+			"code": "0002",
+			"description": "Desarrollo",
+			"workflow": [{
+				"id": 46,
+				"name": "Seguimiento Incidencia",
+				"due_days": 0,
+				"id_group": 21,
+				"nodes": [{
+						"id": 176,
+						"id_workflow": 46,
+						"identifier": "node86plumb1560208294459",
+						"id_node": 86,
+						"offsetleft": 73,
+						"offsettop": 114,
+						"order_n": 1,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 187,
+							"id_workflow_node": 176,
+							"identifier": "con_35",
+							"source": "node86plumb1560208294459",
+							"target": "node84plumb1560208215435",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 177,
+						"id_workflow": 46,
+						"identifier": "node84plumb1560208215435",
+						"id_node": 84,
+						"offsetleft": 495,
+						"offsettop": 289,
+						"order_n": 2,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 188,
+							"id_workflow_node": 177,
+							"identifier": "con_35",
+							"source": "node84plumb1560208215435",
+							"target": "",
+							"anchors": "\"[[],[]]\""
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"id": 22,
+			"code": "0003 ",
+			"description": "Calidad",
+			"workflow": [{
+				"id": 47,
+				"name": "Seguimiento Novedad",
+				"due_days": 0,
+				"id_group": 22,
+				"nodes": [{
+						"id": 178,
+						"id_workflow": 47,
+						"identifier": "node87plumb1560208419789",
+						"id_node": 87,
+						"offsetleft": 103,
+						"offsettop": 89,
+						"order_n": 1,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 189,
+							"id_workflow_node": 178,
+							"identifier": "con_6",
+							"source": "node87plumb1560208419789",
+							"target": "node84plumb1560208429036",
+							"anchors": "\"[[],[]]\""
+						}]
+					},
+					{
+						"id": 179,
+						"id_workflow": 47,
+						"identifier": "node84plumb1560208429036",
+						"id_node": 84,
+						"offsetleft": 478,
+						"offsettop": 249,
+						"order_n": 2,
+						"line": 1,
+						"areas": [],
+						"connections": [{
+							"id": 190,
+							"id_workflow_node": 179,
+							"identifier": "con_6",
+							"source": "node84plumb1560208429036",
+							"target": "",
+							"anchors": "\"[[],[]]\""
+						}]
+					}
+				]
+			}]
+		}
+	],
+	"token": ""
+}
