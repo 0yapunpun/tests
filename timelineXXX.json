@@ -1,0 +1,1714 @@
+{
+    "master": {
+        "behavior": [
+            {
+                "id": 4,
+                "id_company": 1,
+                "code": "01",
+                "description": "Muy Frecuente",
+                "date_update": "2018-01-17",
+                "user_update": "743"
+            },
+            {
+                "id": 5,
+                "id_company": 1,
+                "code": "02",
+                "description": "Frecuente",
+                "date_update": "2018-01-17",
+                "user_update": "743"
+            },
+            {
+                "id": 6,
+                "id_company": 1,
+                "code": "03",
+                "description": "Poco Frecuente",
+                "date_update": "2018-01-17",
+                "user_update": "743"
+            },
+            {
+                "id": 7,
+                "id_company": 1,
+                "code": "04",
+                "description": "Nuevo",
+                "date_update": "2018-01-17",
+                "user_update": "743"
+            },
+            {
+                "id": 8,
+                "id_company": 1,
+                "code": "05",
+                "description": "Ajuste",
+                "date_update": "2018-01-17",
+                "user_update": "743"
+            }
+        ],
+        "colors": [
+            {
+                "hexa": "#F44336",
+                "name": "Red",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#E91E63",
+                "name": "Pink",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#9C27B0",
+                "name": "Purple",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#673AB7",
+                "name": "Deep Purple",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#3F51B5",
+                "name": "Indigo",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#2196F3",
+                "name": "Blue",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#00BCD4",
+                "name": "Cian",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#009688",
+                "name": "Teal",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#4CAF50",
+                "name": "Green",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#CDDC39",
+                "name": "Lime",
+                "textColor": "black"
+            },
+            {
+                "hexa": "#FFEB3B",
+                "name": "Yellow",
+                "textColor": "black"
+            },
+            {
+                "hexa": "#FFC107",
+                "name": "Amber",
+                "textColor": "black"
+            },
+            {
+                "hexa": "#FF9800",
+                "name": "Orange",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#795548",
+                "name": "Brown",
+                "textColor": "white"
+            },
+            {
+                "hexa": "#9E9E9E",
+                "name": "Grey",
+                "textColor": "black"
+            },
+            {
+                "hexa": "#607D8B",
+                "name": "Blue Grey",
+                "textColor": "white"
+            }
+        ],
+        "formats": [
+            {
+                "id": 111,
+                "description": "Pruebas finales",
+                "status": 1,
+                "group": 22,
+                "id_activity": 111,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 1,
+                "id_type_activity": 1,
+                "id_group_activity": 22,
+                "id_user": 0,
+                "changed": "false"
+            },
+            {
+                "id": 112,
+                "description": "Cierre",
+                "status": 1,
+                "group": 29,
+                "id_activity": 112,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 1,
+                "id_type_activity": 1,
+                "id_group_activity": 29,
+                "id_user": 0,
+                "changed": "false"
+            },
+            {
+                "id": 135,
+                "description": "Formulario 1 llenado Aut.",
+                "status": 1,
+                "group": 29,
+                "id_activity": 135,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 1,
+                "id_type_activity": 1,
+                "id_group_activity": 29,
+                "id_user": 0,
+                "changed": "false"
+            },
+            {
+                "id": 136,
+                "description": "Formulario 2 Llenado Aut.",
+                "status": 1,
+                "group": 29,
+                "id_activity": 136,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 0,
+                "id_type_activity": 1,
+                "id_group_activity": 29,
+                "id_user": 0,
+                "changed": "false"
+            },
+            {
+                "id": 159,
+                "description": "Reporte Incidencia",
+                "status": 1,
+                "group": 20,
+                "id_activity": 159,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 1,
+                "id_type_activity": 1,
+                "id_group_activity": 20,
+                "id_user": 0,
+                "changed": "false"
+            },
+            {
+                "id": 160,
+                "description": "Cierre Proceso",
+                "status": 1,
+                "group": 20,
+                "id_activity": 160,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 0,
+                "id_type_activity": 1,
+                "id_group_activity": 20,
+                "id_user": 0,
+                "changed": "false"
+            },
+            {
+                "id": 161,
+                "description": "Seguimiento novedad",
+                "status": 1,
+                "group": 20,
+                "id_activity": 161,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 0,
+                "id_type_activity": 1,
+                "id_group_activity": 20,
+                "id_user": 0,
+                "changed": "false"
+            },
+            {
+                "id": 213,
+                "description": "Incidente Cliente",
+                "status": 1,
+                "group": 22,
+                "id_activity": 213,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 1,
+                "id_type_activity": 1,
+                "id_group_activity": 22,
+                "id_user": 0,
+                "changed": "false"
+            }
+        ],
+        "groups": [
+            {
+                "id": 10,
+                "code": "01",
+                "description": "Novedades",
+                "workflow": [
+                    {
+                        "id": 24,
+                        "name": "Soportes",
+                        "due_days": 0,
+                        "id_group": 10,
+                        "nodes": [
+                            {
+                                "id": 128,
+                                "id_workflow": 24,
+                                "identifier": "node66plumb1550757875367",
+                                "id_node": 66,
+                                "offsetleft": 93,
+                                "offsettop": 4,
+                                "order_n": 1,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 138,
+                                        "id_workflow_node": 128,
+                                        "identifier": "con_6",
+                                        "source": "node66plumb1550757875367",
+                                        "target": "node67plumb1550757882996",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 129,
+                                "id_workflow": 24,
+                                "identifier": "node67plumb1550757882996",
+                                "id_node": 67,
+                                "offsetleft": 129,
+                                "offsettop": 172,
+                                "order_n": 2,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 139,
+                                        "id_workflow_node": 129,
+                                        "identifier": "con_123",
+                                        "source": "node67plumb1550757882996",
+                                        "target": "node68plumb1550757902328",
+                                        "anchors": "\"[[],[]]\""
+                                    },
+                                    {
+                                        "id": 140,
+                                        "id_workflow_node": 129,
+                                        "identifier": "con_110",
+                                        "source": "node67plumb1550757882996",
+                                        "target": "node69plumb1550757889584",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 130,
+                                "id_workflow": 24,
+                                "identifier": "node68plumb1550757902328",
+                                "id_node": 68,
+                                "offsetleft": 558,
+                                "offsettop": 275,
+                                "order_n": 3,
+                                "line": 2,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 141,
+                                        "id_workflow_node": 130,
+                                        "identifier": "con_149",
+                                        "source": "node68plumb1550757902328",
+                                        "target": "node69plumb1550757889584",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 131,
+                                "id_workflow": 24,
+                                "identifier": "node69plumb1550757889584",
+                                "id_node": 69,
+                                "offsetleft": 73,
+                                "offsettop": 403,
+                                "order_n": 4,
+                                "line": 2,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 142,
+                                        "id_workflow_node": 131,
+                                        "identifier": "con_136",
+                                        "source": "node69plumb1550757889584",
+                                        "target": "node70plumb1550757894974",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 132,
+                                "id_workflow": 24,
+                                "identifier": "node70plumb1550757894974",
+                                "id_node": 70,
+                                "offsetleft": 306,
+                                "offsettop": 550,
+                                "order_n": 5,
+                                "line": 2,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 143,
+                                        "id_workflow_node": 132,
+                                        "identifier": "con_136",
+                                        "source": "node70plumb1550757894974",
+                                        "target": "",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "code": "002",
+                "description": "PRUEBAS",
+                "workflow": [
+                    {
+                        "id": 25,
+                        "name": "Llenado Aut.",
+                        "due_days": 0,
+                        "id_group": 11,
+                        "nodes": [
+                            {
+                                "id": 133,
+                                "id_workflow": 25,
+                                "identifier": "node71plumb1551191815997",
+                                "id_node": 71,
+                                "offsetleft": 268,
+                                "offsettop": 43,
+                                "order_n": 1,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 144,
+                                        "id_workflow_node": 133,
+                                        "identifier": "con_18",
+                                        "source": "node71plumb1551191815997",
+                                        "target": "node72plumb1551191818816",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 134,
+                                "id_workflow": 25,
+                                "identifier": "node72plumb1551191818816",
+                                "id_node": 72,
+                                "offsetleft": 261,
+                                "offsettop": 241,
+                                "order_n": 2,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 145,
+                                        "id_workflow_node": 134,
+                                        "identifier": "con_31",
+                                        "source": "node72plumb1551191818816",
+                                        "target": "node70plumb1551191820519",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 135,
+                                "id_workflow": 25,
+                                "identifier": "node70plumb1551191820519",
+                                "id_node": 70,
+                                "offsetleft": 269,
+                                "offsettop": 461,
+                                "order_n": 3,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 146,
+                                        "id_workflow_node": 135,
+                                        "identifier": "con_31",
+                                        "source": "node70plumb1551191820519",
+                                        "target": "",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "code": "03",
+                "description": "Prueba Procesos",
+                "workflow": [
+                    {
+                        "id": 26,
+                        "name": "Prueba Procesos",
+                        "due_days": 0,
+                        "id_group": 12,
+                        "nodes": [
+                            {
+                                "id": 136,
+                                "id_workflow": 26,
+                                "identifier": "node66plumb1552339467988",
+                                "id_node": 66,
+                                "offsetleft": 92,
+                                "offsettop": 142,
+                                "order_n": 1,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 147,
+                                        "id_workflow_node": 136,
+                                        "identifier": "con_18",
+                                        "source": "node66plumb1552339467988",
+                                        "target": "node70plumb1552339470004",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 137,
+                                "id_workflow": 26,
+                                "identifier": "node70plumb1552339470004",
+                                "id_node": 70,
+                                "offsetleft": 463,
+                                "offsettop": 179,
+                                "order_n": 2,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 148,
+                                        "id_workflow_node": 137,
+                                        "identifier": "con_18",
+                                        "source": "node70plumb1552339470004",
+                                        "target": "",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "code": "0001",
+                "description": "Soporte",
+                "workflow": [
+                    {
+                        "id": 45,
+                        "name": "Reporte Incidencia",
+                        "due_days": 0,
+                        "id_group": 20,
+                        "nodes": [
+                            {
+                                "id": 174,
+                                "id_workflow": 45,
+                                "identifier": "node85plumb1560208135446",
+                                "id_node": 85,
+                                "offsetleft": 70,
+                                "offsettop": 151,
+                                "order_n": 1,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 185,
+                                        "id_workflow_node": 174,
+                                        "identifier": "con_6",
+                                        "source": "node85plumb1560208135446",
+                                        "target": "node84plumb1560208138683",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 175,
+                                "id_workflow": 45,
+                                "identifier": "node84plumb1560208138683",
+                                "id_node": 84,
+                                "offsetleft": 450,
+                                "offsettop": 171,
+                                "order_n": 2,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 186,
+                                        "id_workflow_node": 175,
+                                        "identifier": "con_6",
+                                        "source": "node84plumb1560208138683",
+                                        "target": "",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "code": "0002",
+                "description": "Desarrollo",
+                "workflow": [
+                    {
+                        "id": 46,
+                        "name": "Seguimiento Incidencia",
+                        "due_days": 0,
+                        "id_group": 21,
+                        "nodes": [
+                            {
+                                "id": 176,
+                                "id_workflow": 46,
+                                "identifier": "node86plumb1560208294459",
+                                "id_node": 86,
+                                "offsetleft": 73,
+                                "offsettop": 114,
+                                "order_n": 1,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 187,
+                                        "id_workflow_node": 176,
+                                        "identifier": "con_35",
+                                        "source": "node86plumb1560208294459",
+                                        "target": "node84plumb1560208215435",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 177,
+                                "id_workflow": 46,
+                                "identifier": "node84plumb1560208215435",
+                                "id_node": 84,
+                                "offsetleft": 495,
+                                "offsettop": 289,
+                                "order_n": 2,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 188,
+                                        "id_workflow_node": 177,
+                                        "identifier": "con_35",
+                                        "source": "node84plumb1560208215435",
+                                        "target": "",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "code": "0003 ",
+                "description": "Calidad",
+                "workflow": [
+                    {
+                        "id": 47,
+                        "name": "Seguimiento Novedad",
+                        "due_days": 0,
+                        "id_group": 22,
+                        "nodes": [
+                            {
+                                "id": 178,
+                                "id_workflow": 47,
+                                "identifier": "node87plumb1560208419789",
+                                "id_node": 87,
+                                "offsetleft": 103,
+                                "offsettop": 89,
+                                "order_n": 1,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 189,
+                                        "id_workflow_node": 178,
+                                        "identifier": "con_6",
+                                        "source": "node87plumb1560208419789",
+                                        "target": "node84plumb1560208429036",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            },
+                            {
+                                "id": 179,
+                                "id_workflow": 47,
+                                "identifier": "node84plumb1560208429036",
+                                "id_node": 84,
+                                "offsetleft": 478,
+                                "offsettop": 249,
+                                "order_n": 2,
+                                "line": 1,
+                                "areas": [],
+                                "connections": [
+                                    {
+                                        "id": 190,
+                                        "id_workflow_node": 179,
+                                        "identifier": "con_6",
+                                        "source": "node84plumb1560208429036",
+                                        "target": "",
+                                        "anchors": "\"[[],[]]\""
+                                    }
+                                ],
+                                "infoNode": {
+                                    "node": " - ",
+                                    "area": " - ",
+                                    "class": " - ",
+                                    "format": " - "
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "nodes": [
+            {
+                "id": 66,
+                "id_company": 1,
+                "description": "Nueva Incidencia",
+                "id_area": 83,
+                "id_class": null,
+                "id_format": 105,
+                "figure": 1,
+                "notify_email": 0,
+                "infoFormat": {},
+                "infoArea": {
+                    "id": 83,
+                    "id_company": 1,
+                    "code": "01",
+                    "description": "Soporte ",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-08-21",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 4312, 'name_user': 'Daniel  Londoño', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1},{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 1,
+                    "description": "Cuadrado",
+                    "class": "item-square",
+                    "name": "square"
+                }
+            },
+            {
+                "id": 67,
+                "id_company": 1,
+                "description": "Validación Novedad",
+                "id_area": 83,
+                "id_class": null,
+                "id_format": 107,
+                "figure": 1,
+                "notify_email": 0,
+                "infoFormat": {},
+                "infoArea": {
+                    "id": 83,
+                    "id_company": 1,
+                    "code": "01",
+                    "description": "Soporte ",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-08-21",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 4312, 'name_user': 'Daniel  Londoño', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1},{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 1,
+                    "description": "Cuadrado",
+                    "class": "item-square",
+                    "name": "square"
+                }
+            },
+            {
+                "id": 68,
+                "id_company": 1,
+                "description": "Novedad Desarrollo",
+                "id_area": 84,
+                "id_class": null,
+                "id_format": 108,
+                "figure": 2,
+                "notify_email": 0,
+                "infoFormat": {},
+                "infoArea": {
+                    "id": 84,
+                    "id_company": 1,
+                    "code": "02",
+                    "description": "Desarrollo ",
+                    "id_group": 29,
+                    "id_subgroup": 184,
+                    "email_notifications": "",
+                    "date_update": "2021-10-29",
+                    "user_update": 743,
+                    "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 2,
+                    "description": "Circulo",
+                    "class": "item-circle",
+                    "name": "circle"
+                }
+            },
+            {
+                "id": 69,
+                "id_company": 1,
+                "description": "Prueba Calidad",
+                "id_area": 83,
+                "id_class": null,
+                "id_format": 111,
+                "figure": 3,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 111,
+                    "description": "Pruebas finales",
+                    "status": 1,
+                    "group": 22,
+                    "id_activity": 111,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 1,
+                    "id_type_activity": 1,
+                    "id_group_activity": 22,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 83,
+                    "id_company": 1,
+                    "code": "01",
+                    "description": "Soporte ",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-08-21",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 4312, 'name_user': 'Daniel  Londoño', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1},{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 3,
+                    "description": "Rombo",
+                    "class": "item-diamond-square",
+                    "name": "diamond-square"
+                }
+            },
+            {
+                "id": 70,
+                "id_company": 1,
+                "description": "Cierre Novedad",
+                "id_area": 83,
+                "id_class": null,
+                "id_format": 112,
+                "figure": 3,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 112,
+                    "description": "Cierre",
+                    "status": 1,
+                    "group": 29,
+                    "id_activity": 112,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 1,
+                    "id_type_activity": 1,
+                    "id_group_activity": 29,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 83,
+                    "id_company": 1,
+                    "code": "01",
+                    "description": "Soporte ",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-08-21",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 4312, 'name_user': 'Daniel  Londoño', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1},{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 3,
+                    "description": "Rombo",
+                    "class": "item-diamond-square",
+                    "name": "diamond-square"
+                }
+            },
+            {
+                "id": 71,
+                "id_company": 1,
+                "description": "Llenado Aut 1",
+                "id_area": 84,
+                "id_class": null,
+                "id_format": 213,
+                "figure": 3,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 213,
+                    "description": "Incidente Cliente",
+                    "status": 1,
+                    "group": 22,
+                    "id_activity": 213,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 1,
+                    "id_type_activity": 1,
+                    "id_group_activity": 22,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 84,
+                    "id_company": 1,
+                    "code": "02",
+                    "description": "Desarrollo ",
+                    "id_group": 29,
+                    "id_subgroup": 184,
+                    "email_notifications": "",
+                    "date_update": "2021-10-29",
+                    "user_update": 743,
+                    "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 3,
+                    "description": "Rombo",
+                    "class": "item-diamond-square",
+                    "name": "diamond-square"
+                }
+            },
+            {
+                "id": 72,
+                "id_company": 1,
+                "description": "Llenado Aut 2",
+                "id_area": 84,
+                "id_class": null,
+                "id_format": 136,
+                "figure": 1,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 136,
+                    "description": "Formulario 2 Llenado Aut.",
+                    "status": 1,
+                    "group": 29,
+                    "id_activity": 136,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 0,
+                    "id_type_activity": 1,
+                    "id_group_activity": 29,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 84,
+                    "id_company": 1,
+                    "code": "02",
+                    "description": "Desarrollo ",
+                    "id_group": 29,
+                    "id_subgroup": 184,
+                    "email_notifications": "",
+                    "date_update": "2021-10-29",
+                    "user_update": 743,
+                    "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 1,
+                    "description": "Cuadrado",
+                    "class": "item-square",
+                    "name": "square"
+                }
+            },
+            {
+                "id": 83,
+                "id_company": 1,
+                "description": "Reporte Incidencia",
+                "id_area": 83,
+                "id_class": null,
+                "id_format": 159,
+                "figure": 1,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 159,
+                    "description": "Reporte Incidencia",
+                    "status": 1,
+                    "group": 20,
+                    "id_activity": 159,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 1,
+                    "id_type_activity": 1,
+                    "id_group_activity": 20,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 83,
+                    "id_company": 1,
+                    "code": "01",
+                    "description": "Soporte ",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-08-21",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 4312, 'name_user': 'Daniel  Londoño', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1},{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 1,
+                    "description": "Cuadrado",
+                    "class": "item-square",
+                    "name": "square"
+                }
+            },
+            {
+                "id": 84,
+                "id_company": 1,
+                "description": "Cierre Proceso",
+                "id_area": 83,
+                "id_class": null,
+                "id_format": 160,
+                "figure": 3,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 160,
+                    "description": "Cierre Proceso",
+                    "status": 1,
+                    "group": 20,
+                    "id_activity": 160,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 0,
+                    "id_type_activity": 1,
+                    "id_group_activity": 20,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 83,
+                    "id_company": 1,
+                    "code": "01",
+                    "description": "Soporte ",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-08-21",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 4312, 'name_user': 'Daniel  Londoño', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1},{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 3,
+                    "description": "Rombo",
+                    "class": "item-diamond-square",
+                    "name": "diamond-square"
+                }
+            },
+            {
+                "id": 85,
+                "id_company": 1,
+                "description": "Seguimiento Novedad Soporte",
+                "id_area": 83,
+                "id_class": null,
+                "id_format": 161,
+                "figure": 2,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 161,
+                    "description": "Seguimiento novedad",
+                    "status": 1,
+                    "group": 20,
+                    "id_activity": 161,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 0,
+                    "id_type_activity": 1,
+                    "id_group_activity": 20,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 83,
+                    "id_company": 1,
+                    "code": "01",
+                    "description": "Soporte ",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-08-21",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 4312, 'name_user': 'Daniel  Londoño', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1},{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 2,
+                    "description": "Circulo",
+                    "class": "item-circle",
+                    "name": "circle"
+                }
+            },
+            {
+                "id": 86,
+                "id_company": 1,
+                "description": "Seguimiento Novedad Desarrollo",
+                "id_area": 84,
+                "id_class": null,
+                "id_format": 161,
+                "figure": 1,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 161,
+                    "description": "Seguimiento novedad",
+                    "status": 1,
+                    "group": 20,
+                    "id_activity": 161,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 0,
+                    "id_type_activity": 1,
+                    "id_group_activity": 20,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 84,
+                    "id_company": 1,
+                    "code": "02",
+                    "description": "Desarrollo ",
+                    "id_group": 29,
+                    "id_subgroup": 184,
+                    "email_notifications": "",
+                    "date_update": "2021-10-29",
+                    "user_update": 743,
+                    "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 1,
+                    "description": "Cuadrado",
+                    "class": "item-square",
+                    "name": "square"
+                }
+            },
+            {
+                "id": 87,
+                "id_company": 1,
+                "description": "Seguimiento Novedad Calidad",
+                "id_area": 88,
+                "id_class": null,
+                "id_format": 161,
+                "figure": 1,
+                "notify_email": 0,
+                "infoFormat": {
+                    "id": 161,
+                    "description": "Seguimiento novedad",
+                    "status": 1,
+                    "group": 20,
+                    "id_activity": 161,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 0,
+                    "id_type_activity": 1,
+                    "id_group_activity": 20,
+                    "id_user": 0,
+                    "changed": "false"
+                },
+                "infoArea": {
+                    "id": 88,
+                    "id_company": 1,
+                    "code": "03",
+                    "description": "Calidad",
+                    "id_group": 12,
+                    "id_subgroup": 141,
+                    "email_notifications": "",
+                    "date_update": "2019-06-10",
+                    "user_update": 1318,
+                    "users": "[{'id_user': 744, 'name_user': 'Juan Diego Rendon ', 'role': 1},{'id_user': 1318, 'name_user': 'Santiago Gallego', 'role': 1}]"
+                },
+                "infoFigure": {
+                    "id": 1,
+                    "description": "Cuadrado",
+                    "class": "item-square",
+                    "name": "square"
+                }
+            }
+        ],
+        "prioritys": [
+            {
+                "id": 8,
+                "id_company": 1,
+                "code": "01",
+                "description": "Muy Urgente",
+                "color": "#F44336",
+                "date_update": "2019-01-21 15:18:26",
+                "user_update": "1318"
+            },
+            {
+                "id": 9,
+                "id_company": 1,
+                "code": "02",
+                "description": "Urgente",
+                "color": "#FFEB3B",
+                "date_update": "2019-01-21 15:18:47",
+                "user_update": "1318"
+            },
+            {
+                "id": 10,
+                "id_company": 1,
+                "code": "03",
+                "description": "Poco Urgente",
+                "color": "#2196F3",
+                "date_update": "2019-01-21 15:19:24",
+                "user_update": "1318"
+            }
+        ]
+    },
+    "processSelected": {
+        "id": 3091,
+        "id_status": 7,
+        "action_status": "start",
+        "status": "En proceso",
+        "number": 279,
+        "id_workflow": 25,
+        "id_user": 745,
+        "id_request": 24255,
+        "id_format_request": 135,
+        "id_user_request": 745,
+        "user_request": "Jeyson Andres Orrego Garcia T",
+        "photo_user_request": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+        "date_request": "2019-07-10 10:00:46",
+        "bussiness_name": "",
+        "first_name": "Jeyson",
+        "second_name": "Andres",
+        "first_lastname": "Orrego",
+        "due_date": "2019-07-10",
+        "date": "2019-07-10 10:01:08",
+        "id_group": 11,
+        "name": "Llenado Aut.",
+        "code": "002",
+        "description": "PRUEBAS",
+        "user_id_subgroup": 184,
+        "user_subgroup": "Web",
+        "user_id_group": 29,
+        "user_group": "Desarrollos",
+        "nodes": [
+            {
+                "id_header": 3091,
+                "id_format_answer": 24256,
+                "id_user": 745,
+                "bussiness_name": "",
+                "first_name": "Jeyson",
+                "second_name": "Andres",
+                "first_lastname": "Orrego",
+                "photo": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+                "id_node": 71,
+                "description_node": "Llenado Aut 1",
+                "id_area": 84,
+                "id_class": null,
+                "id_format": 213,
+                "date": "2019-07-10 10:01:07",
+                "resume": [
+                    {
+                        "question": "Nombre",
+                        "answer": "Hola"
+                    },
+                    {
+                        "question": "Apellido",
+                        "answer": "Mundo"
+                    }
+                ],
+                "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+                "infoArea": {
+                    "id": 84,
+                    "id_company": 1,
+                    "code": "02",
+                    "description": "Desarrollo ",
+                    "id_group": 29,
+                    "id_subgroup": 184,
+                    "email_notifications": "",
+                    "date_update": "2021-10-29",
+                    "user_update": 743,
+                    "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                },
+                "infoClass": {},
+                "infoFormat": {
+                    "id": 213,
+                    "description": "Incidente Cliente",
+                    "status": 1,
+                    "group": 22,
+                    "id_activity": 213,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 1,
+                    "id_type_activity": 1,
+                    "id_group_activity": 22,
+                    "id_user": 0,
+                    "changed": "false"
+                }
+            },
+            {
+                "id_header": 3091,
+                "id_format_answer": 24257,
+                "id_user": 745,
+                "bussiness_name": "",
+                "first_name": "Jeyson",
+                "second_name": "Andres",
+                "first_lastname": "Orrego",
+                "photo": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+                "id_node": 72,
+                "description_node": "Llenado Aut 2",
+                "id_area": 84,
+                "id_class": null,
+                "id_format": 136,
+                "date": "2019-07-10 10:01:31",
+                "resume": [],
+                "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+                "infoArea": {
+                    "id": 84,
+                    "id_company": 1,
+                    "code": "02",
+                    "description": "Desarrollo ",
+                    "id_group": 29,
+                    "id_subgroup": 184,
+                    "email_notifications": "",
+                    "date_update": "2021-10-29",
+                    "user_update": 743,
+                    "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                },
+                "infoClass": {},
+                "infoFormat": {
+                    "id": 136,
+                    "description": "Formulario 2 Llenado Aut.",
+                    "status": 1,
+                    "group": 29,
+                    "id_activity": 136,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 0,
+                    "id_type_activity": 1,
+                    "id_group_activity": 29,
+                    "id_user": 0,
+                    "changed": "false"
+                }
+            },
+            {
+                "id_header": 3091,
+                "id_format_answer": 24257,
+                "id_user": 745,
+                "bussiness_name": "",
+                "first_name": "Jeyson",
+                "second_name": "Andres",
+                "first_lastname": "Orrego",
+                "photo": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+                "id_node": 72,
+                "description_node": "Llenado Aut 2",
+                "id_area": 84,
+                "id_class": null,
+                "id_format": 136,
+                "date": "2019-07-10 10:01:31",
+                "resume": [],
+                "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+                "infoArea": {
+                    "id": 84,
+                    "id_company": 1,
+                    "code": "02",
+                    "description": "Desarrollo ",
+                    "id_group": 29,
+                    "id_subgroup": 184,
+                    "email_notifications": "",
+                    "date_update": "2021-10-29",
+                    "user_update": 743,
+                    "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                },
+                "infoClass": {},
+                "infoFormat": {
+                    "id": 136,
+                    "description": "Formulario 2 Llenado Aut.",
+                    "status": 1,
+                    "group": 29,
+                    "id_activity": 136,
+                    "id_company": 1,
+                    "modifiable": "false",
+                    "type_activity": 1,
+                    "is_request": 0,
+                    "id_type_activity": 1,
+                    "id_group_activity": 29,
+                    "id_user": 0,
+                    "changed": "false"
+                }
+            }
+        ],
+        "total": 3,
+        "actual": 3,
+        "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+        "percentage": "100",
+        "infoFormatRequest": {
+            "id": 135,
+            "description": "Formulario 1 llenado Aut.",
+            "status": 1,
+            "group": 29,
+            "id_activity": 135,
+            "id_company": 1,
+            "modifiable": "false",
+            "type_activity": 1,
+            "is_request": 1,
+            "id_type_activity": 1,
+            "id_group_activity": 29,
+            "id_user": 0,
+            "changed": "false"
+        }
+    },
+    "fullData": {
+        "id": 77434,
+        "id_company": 1,
+        "id_workflow_header": 3091,
+        "id_workflow": 25,
+        "id_node": 72,
+        "id_area": 84,
+        "area": "Desarrollo ",
+        "id_class": null,
+        "class": null,
+        "id_priority": 10,
+        "priority": "Poco Urgente",
+        "id_behavior": 8,
+        "frequency": "Ajuste",
+        "id_type": null,
+        "type": null,
+        "subject": "Llenado Aut 2",
+        "detail": "",
+        "status": 3,
+        "place": "",
+        "id_user_report": 745,
+        "user_report": "Jeyson Andres Orrego Garcia",
+        "id_user_take": 745,
+        "photo_user_take": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+        "user_take": "Jeyson Andres Orrego Garcia",
+        "id_user_register": 745,
+        "user_register": "Jeyson Andres Orrego Garcia",
+        "date_create": "2019-07-10 10:01:08",
+        "date_take": "2019-07-10 10:04:20",
+        "user": [],
+        "activitie_file": [],
+        "workflow": {
+            "id": 3091,
+            "id_status": 7,
+            "action_status": "start",
+            "status": "En proceso",
+            "number": 279,
+            "id_workflow": 25,
+            "id_user": 745,
+            "id_request": 24255,
+            "id_format_request": 135,
+            "id_user_request": 745,
+            "user_request": "Jeyson Andres Orrego Garcia T",
+            "photo_user_request": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+            "date_request": "2019-07-10 10:00:46",
+            "bussiness_name": "",
+            "first_name": "Jeyson",
+            "second_name": "Andres",
+            "first_lastname": "Orrego",
+            "due_date": "2019-07-10",
+            "date": "2019-07-10 10:01:08",
+            "id_group": 11,
+            "name": "Llenado Aut.",
+            "code": "002",
+            "description": "PRUEBAS",
+            "user_id_subgroup": 184,
+            "user_subgroup": "Web",
+            "user_id_group": 29,
+            "user_group": "Desarrollos",
+            "nodes": [
+                {
+                    "id_header": 3091,
+                    "id_format_answer": 24256,
+                    "id_user": 745,
+                    "bussiness_name": "",
+                    "first_name": "Jeyson",
+                    "second_name": "Andres",
+                    "first_lastname": "Orrego",
+                    "photo": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+                    "id_node": 71,
+                    "description_node": "Llenado Aut 1",
+                    "id_area": 84,
+                    "id_class": null,
+                    "id_format": 213,
+                    "date": "2019-07-10 10:01:07",
+                    "resume": [
+                        {
+                            "question": "Nombre",
+                            "answer": "Hola"
+                        },
+                        {
+                            "question": "Apellido",
+                            "answer": "Mundo"
+                        }
+                    ],
+                    "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+                    "infoArea": {
+                        "id": 84,
+                        "id_company": 1,
+                        "code": "02",
+                        "description": "Desarrollo ",
+                        "id_group": 29,
+                        "id_subgroup": 184,
+                        "email_notifications": "",
+                        "date_update": "2021-10-29",
+                        "user_update": 743,
+                        "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                    },
+                    "infoClass": {},
+                    "infoFormat": {
+                        "id": 213,
+                        "description": "Incidente Cliente",
+                        "status": 1,
+                        "group": 22,
+                        "id_activity": 213,
+                        "id_company": 1,
+                        "modifiable": "false",
+                        "type_activity": 1,
+                        "is_request": 1,
+                        "id_type_activity": 1,
+                        "id_group_activity": 22,
+                        "id_user": 0,
+                        "changed": "false"
+                    }
+                },
+                {
+                    "id_header": 3091,
+                    "id_format_answer": 24257,
+                    "id_user": 745,
+                    "bussiness_name": "",
+                    "first_name": "Jeyson",
+                    "second_name": "Andres",
+                    "first_lastname": "Orrego",
+                    "photo": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+                    "id_node": 72,
+                    "description_node": "Llenado Aut 2",
+                    "id_area": 84,
+                    "id_class": null,
+                    "id_format": 136,
+                    "date": "2019-07-10 10:01:31",
+                    "resume": [],
+                    "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+                    "infoArea": {
+                        "id": 84,
+                        "id_company": 1,
+                        "code": "02",
+                        "description": "Desarrollo ",
+                        "id_group": 29,
+                        "id_subgroup": 184,
+                        "email_notifications": "",
+                        "date_update": "2021-10-29",
+                        "user_update": 743,
+                        "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                    },
+                    "infoClass": {},
+                    "infoFormat": {
+                        "id": 136,
+                        "description": "Formulario 2 Llenado Aut.",
+                        "status": 1,
+                        "group": 29,
+                        "id_activity": 136,
+                        "id_company": 1,
+                        "modifiable": "false",
+                        "type_activity": 1,
+                        "is_request": 0,
+                        "id_type_activity": 1,
+                        "id_group_activity": 29,
+                        "id_user": 0,
+                        "changed": "false"
+                    }
+                },
+                {
+                    "id_header": 3091,
+                    "id_format_answer": 24257,
+                    "id_user": 745,
+                    "bussiness_name": "",
+                    "first_name": "Jeyson",
+                    "second_name": "Andres",
+                    "first_lastname": "Orrego",
+                    "photo": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+                    "id_node": 72,
+                    "description_node": "Llenado Aut 2",
+                    "id_area": 84,
+                    "id_class": null,
+                    "id_format": 136,
+                    "date": "2019-07-10 10:01:31",
+                    "resume": [],
+                    "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+                    "infoArea": {
+                        "id": 84,
+                        "id_company": 1,
+                        "code": "02",
+                        "description": "Desarrollo ",
+                        "id_group": 29,
+                        "id_subgroup": 184,
+                        "email_notifications": "",
+                        "date_update": "2021-10-29",
+                        "user_update": 743,
+                        "users": "[{'id_user': 12245, 'name_user': 'Sebastian  Martinez Uribe', 'role': 3},{'id_user': 12214, 'name_user': 'Santiago  Berrio Agudelo', 'role': 3},{'id_user': 743, 'name_user': 'Juan Manuel Navarro Suarez', 'role': 1},{'id_user': 747, 'name_user': 'Santiago  Restrepo ', 'role': 1}]"
+                    },
+                    "infoClass": {},
+                    "infoFormat": {
+                        "id": 136,
+                        "description": "Formulario 2 Llenado Aut.",
+                        "status": 1,
+                        "group": 29,
+                        "id_activity": 136,
+                        "id_company": 1,
+                        "modifiable": "false",
+                        "type_activity": 1,
+                        "is_request": 0,
+                        "id_type_activity": 1,
+                        "id_group_activity": 29,
+                        "id_user": 0,
+                        "changed": "false"
+                    }
+                }
+            ],
+            "total": 3,
+            "actual": 3,
+            "dateBeatiful": "Julio 10, 2019, 10:01 a.m",
+            "percentage": "100",
+            "infoFormatRequest": {
+                "id": 135,
+                "description": "Formulario 1 llenado Aut.",
+                "status": 1,
+                "group": 29,
+                "id_activity": 135,
+                "id_company": 1,
+                "modifiable": "false",
+                "type_activity": 1,
+                "is_request": 1,
+                "id_type_activity": 1,
+                "id_group_activity": 29,
+                "id_user": 0,
+                "changed": "false"
+            }
+        },
+        "id_format": 136
+    }
+}
