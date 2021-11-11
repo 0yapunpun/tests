@@ -1,0 +1,77 @@
+[
+    {
+        "id": 29,
+        "count": 61,
+        "description": "Desarrollos",
+        "subgroups": [
+            {
+                "id": 184,
+                "count": 60,
+                "description": "Web",
+                "users": [
+                    {
+                        "count": 42,
+                        "description": "Jeyson Andres Orrego Garcia T",
+                        "id_user": 745,
+                        "id_group": 29,
+                        "id_subgroup": 184
+                    },
+                    {
+                        "count": 18,
+                        "description": "Sebastian  Martinez Uribe",
+                        "id_user": 12245,
+                        "id_group": 29,
+                        "id_subgroup": 184
+                    }
+                ],
+                "uid": "sg184"
+            },
+            {
+                "id": 189,
+                "count": 1,
+                "description": "Api",
+                "users": [
+                    {
+                        "count": 1,
+                        "description": "Santiago  Restrepo ",
+                        "id_user": 747,
+                        "id_group": 29,
+                        "id_subgroup": 189
+                    }
+                ],
+                "uid": "sg189"
+            }
+        ],
+        "uid": "g29"
+    },
+    {
+        "id": -1,
+        "count": 55,
+        "description": "Sin asignar",
+        "subgroups": [
+            {
+                "id": -1,
+                "count": 55,
+                "description": "Sin asignar",
+                "users": [
+                    {
+                        "count": 49,
+                        "description": "Jhon Wilmar Vente Riascos",
+                        "id_user": 3858,
+                        "id_group": null,
+                        "id_subgroup": null
+                    },
+                    {
+                        "count": 6,
+                        "description": "Test Navacom",
+                        "id_user": 3755,
+                        "id_group": null,
+                        "id_subgroup": null
+                    }
+                ],
+                "uid": "sg-1"
+            }
+        ],
+        "uid": "g-1"
+    }
+]
