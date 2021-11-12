@@ -1,0 +1,70 @@
+[
+  {
+    "id": 11,
+    "code": "002",
+    "description": "PRUEBAS",
+    "workflow": [
+      {
+        "id": 25,
+        "name": "Llenado Aut.",
+        "due_days": 0,
+        "id_group": 11,
+        "first_node": [
+          {
+            "id": 133,
+            "id_workflow": 25,
+            "identifier": "node71plumb1551191815997",
+            "id_node": 71,
+            "offsetleft": 268,
+            "offsettop": 43,
+            "order_n": 1,
+            "line": 1,
+            "node": {
+              "id": 71,
+              "id_company": 1,
+              "description": "Llenado Aut 1",
+              "id_area": 84,
+              "id_class": null,
+              "id_format": 213,
+              "figure": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "code": "0002",
+    "description": "Desarrollo",
+    "workflow": [
+      {
+        "id": 46,
+        "name": "Seguimiento Incidencia",
+        "due_days": 0,
+        "id_group": 21,
+        "first_node": [
+          {
+            "id": 176,
+            "id_workflow": 46,
+            "identifier": "node86plumb1560208294459",
+            "id_node": 86,
+            "offsetleft": 73,
+            "offsettop": 114,
+            "order_n": 1,
+            "line": 1,
+            "node": {
+              "id": 86,
+              "id_company": 1,
+              "description": "Seguimiento Novedad Desarrollo",
+              "id_area": 84,
+              "id_class": null,
+              "id_format": 161,
+              "figure": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
