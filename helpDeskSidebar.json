@@ -1,0 +1,14 @@
+[
+  {
+      "id": 84,
+      "id_company": 1,
+      "code": "02",
+      "description": "Desarrollo ",
+      "total_task": 46,
+      "pending_task": 34,
+      "task_taken": 0,
+      "in_progress": 0,
+      "completed": 7,
+      "closed": 5
+  }
+]
