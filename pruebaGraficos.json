@@ -1,0 +1,218 @@
+[
+    {
+        "vendedor": null,
+        "nit": "193",
+        "bodega": null,
+        "valor": 1107270,
+        "cantidad": 1,
+        "clientes": 1
+    },
+    {
+        "vendedor": null,
+        "nit": "194",
+        "bodega": null,
+        "valor": 3559080,
+        "cantidad": 4,
+        "clientes": 3
+    },
+    {
+        "vendedor": null,
+        "nit": "195",
+        "bodega": null,
+        "valor": 7481900,
+        "cantidad": 5,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Bernardo Adolfo Buitrago Sanchez",
+        "nit": "82",
+        "bodega": 3,
+        "valor": 1161800,
+        "cantidad": 1,
+        "clientes": 1
+    },
+    {
+        "vendedor": "Contabilidad  IGB",
+        "nit": "22",
+        "bodega": 2,
+        "valor": 109600,
+        "cantidad": 2,
+        "clientes": 1
+    },
+    {
+        "vendedor": "Cristhian Camilo Cardenas Quintero",
+        "nit": "154",
+        "bodega": 2,
+        "valor": 23916125,
+        "cantidad": 7,
+        "clientes": 4
+    },
+    {
+        "vendedor": "Cristhian Javier Henao Rueda",
+        "nit": "166",
+        "bodega": 2,
+        "valor": 9403890,
+        "cantidad": 4,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Daniel  Forero Capera",
+        "nit": "120",
+        "bodega": 6,
+        "valor": 1915800,
+        "cantidad": 2,
+        "clientes": 1
+    },
+    {
+        "vendedor": "Danner Prieto",
+        "nit": "184",
+        "bodega": 5,
+        "valor": 2060550,
+        "cantidad": 4,
+        "clientes": 2
+    },
+    {
+        "vendedor": "David Dario Perez Osorio",
+        "nit": "105",
+        "bodega": 4,
+        "valor": 10716685,
+        "cantidad": 3,
+        "clientes": 2
+    },
+    {
+        "vendedor": "Dayron  Arley Gaviria Zapata",
+        "nit": "87",
+        "bodega": 3,
+        "valor": 13824700,
+        "cantidad": 2,
+        "clientes": 2
+    },
+    {
+        "vendedor": "Diana Marcela Londoño Toro",
+        "nit": "158",
+        "bodega": 3,
+        "valor": 22240440,
+        "cantidad": 14,
+        "clientes": 7
+    },
+    {
+        "vendedor": "Edier Albeiro Diaz  Castrillon",
+        "nit": "131",
+        "bodega": 3,
+        "valor": 8799080,
+        "cantidad": 5,
+        "clientes": 2
+    },
+    {
+        "vendedor": "Edwin  Serrano Rojas",
+        "nit": "6",
+        "bodega": 1,
+        "valor": 14782050,
+        "cantidad": 3,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Fredi Alexander Pinta Betancur",
+        "nit": "172",
+        "bodega": 6,
+        "valor": 9353400,
+        "cantidad": 7,
+        "clientes": 2
+    },
+    {
+        "vendedor": "German Eduardo Bolivar Callejas",
+        "nit": "129",
+        "bodega": 1,
+        "valor": 8341450,
+        "cantidad": 5,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Harold Deudely Polania Rojas",
+        "nit": "163",
+        "bodega": 6,
+        "valor": 9141390,
+        "cantidad": 7,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Hector Raul Ramos",
+        "nit": "116",
+        "bodega": 6,
+        "valor": 4573155,
+        "cantidad": 3,
+        "clientes": 2
+    },
+    {
+        "vendedor": "Janet  Velez",
+        "nit": "95",
+        "bodega": 3,
+        "valor": 4857994,
+        "cantidad": 3,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Karen Dahiana Cardona Samiento",
+        "nit": "153",
+        "bodega": 7,
+        "valor": 1502760,
+        "cantidad": 2,
+        "clientes": 2
+    },
+    {
+        "vendedor": "Leopoldo Campo",
+        "nit": "183",
+        "bodega": 5,
+        "valor": 427140,
+        "cantidad": 1,
+        "clientes": 1
+    },
+    {
+        "vendedor": "Paola Marcela Flores Salas",
+        "nit": "179",
+        "bodega": 1,
+        "valor": 3349950,
+        "cantidad": 1,
+        "clientes": 1
+    },
+    {
+        "vendedor": "Representaciones De  Fabrica",
+        "nit": "10",
+        "bodega": 2,
+        "valor": 5171150,
+        "cantidad": 5,
+        "clientes": 2
+    },
+    {
+        "vendedor": "Roman Andres Gaviria Reyes",
+        "nit": "141",
+        "bodega": 4,
+        "valor": 10826790,
+        "cantidad": 6,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Sebastian  Kiza Lancheros",
+        "nit": "56",
+        "bodega": 2,
+        "valor": 4317700,
+        "cantidad": 1,
+        "clientes": 1
+    },
+    {
+        "vendedor": "Viviana Yaneth Castro Moreno",
+        "nit": "139",
+        "bodega": 2,
+        "valor": 7858039,
+        "cantidad": 7,
+        "clientes": 3
+    },
+    {
+        "vendedor": "Yuly Yasbleidy Peña Murcia",
+        "nit": "32",
+        "bodega": 1,
+        "valor": 5788750,
+        "cantidad": 4,
+        "clientes": 3
+    }
+]
