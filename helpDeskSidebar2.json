@@ -1,0 +1,39 @@
+[
+    {
+        "id": 84,
+        "id_company": 1,
+        "code": "02",
+        "description": "Desarrollo ",
+        "total_task": 46,
+        "pending_task": 34,
+        "task_taken": 0,
+        "in_progress": 0,
+        "completed": 7,
+        "closed": 5
+    },
+    {
+        "id": 85,
+        "id_company": 1,
+        "code": "03",
+        "description": "Desarrollo ",
+        "total_task": 50,
+        "pending_task": 25,
+        "task_taken": 0,
+        "in_progress": 0,
+        "completed": 25,
+        "closed": 0
+    },
+    {
+        "id": 86,
+        "id_company": 1,
+        "code": "04",
+        "description": "CosaX ",
+        "total_task": 420,
+        "pending_task": 100,
+        "task_taken": 34,
+        "in_progress": 66,
+        "completed": 6,
+        "closed": 214
+    }
+
+]
