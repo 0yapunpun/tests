@@ -1,0 +1,155 @@
+[
+    {
+        "id_person": 77026,
+        "id_company": 1,
+        "nombre": "Juan Diego Rendon Colorado",
+        "photo": "/files/profile/crop20190325_130320_profilePhZ4PtZ.png",
+        "nit": "1037323224",
+        "id_user": 744,
+        "total_take": 0
+    },
+    {
+        "id_person": 77027,
+        "id_company": 1,
+        "nombre": "Jeyson Andres Orrego Garcia",
+        "photo": "/files/profile/cropimg_03_480_profilekyok28y.jpg",
+        "nit": "1039468107",
+        "id_user": 745,
+        "total_take": 0
+    },
+    {
+        "id_person": 77057,
+        "id_company": 1,
+        "nombre": "Santiago  Restrepo ",
+        "photo": "/files/profile/cropprofile_ixQ5E061795645_10153187611717973_7261931735712073444_n.jpg.jpg",
+        "nit": "1036631904",
+        "id_user": 747,
+        "total_take": 0
+    },
+    {
+        "id_person": 77043,
+        "id_company": 1,
+        "nombre": "Sebastian  Gil ",
+        "photo": "/files/profile/cropprofile_KoMygTB2pA2192IMG_20171002_180753216.jpg.jpg",
+        "nit": "1020456986",
+        "id_user": 748,
+        "total_take": 0
+    },
+    {
+        "id_person": 201832,
+        "id_company": 1,
+        "nombre": "Empleado 1 Navacom 1",
+        "photo": null,
+        "nit": "12312638",
+        "id_user": 1258,
+        "total_take": 0
+    },
+    {
+        "id_person": 261220,
+        "id_company": 1,
+        "nombre": "Yeison Santiago Gallego Barrera",
+        "photo": "/files/profile/cropWhatsAppImage20190626at41740PM_profileJlu2oRl.jpeg",
+        "nit": "1216725479",
+        "id_user": 1318,
+        "total_take": 0
+    },
+    {
+        "id_person": 576606,
+        "id_company": 1,
+        "nombre": "prueba  123 ",
+        "photo": null,
+        "nit": "1234566",
+        "id_user": 3211,
+        "total_take": 0
+    },
+    {
+        "id_person": 641229,
+        "id_company": 1,
+        "nombre": "Prueba 1  Usuario 1 ",
+        "photo": null,
+        "nit": "123459876",
+        "id_user": 3679,
+        "total_take": 0
+    },
+    {
+        "id_person": 666641,
+        "id_company": 1,
+        "nombre": "Luis  Carmona ",
+        "photo": "/files/profile/cropWhatsAppImage20190213at55631PM_profileIBZZvM0.jpeg",
+        "nit": "1037638486",
+        "id_user": 3845,
+        "total_take": 0
+    },
+    {
+        "id_person": 667175,
+        "id_company": 1,
+        "nombre": "jhon wilmar vente riascos",
+        "photo": "/files/profile/crop20190219_095407_profilefdJY1vY.jpg",
+        "nit": "1026157932",
+        "id_user": 3858,
+        "total_take": 0
+    },
+    {
+        "id_person": 901629,
+        "id_company": 1,
+        "nombre": "Prueba   Persona ",
+        "photo": null,
+        "nit": "123",
+        "id_user": 4278,
+        "total_take": 0
+    },
+    {
+        "id_person": 902487,
+        "id_company": 1,
+        "nombre": "Daniel  Londoño ",
+        "photo": "/files/profile/crop1669878_10152742997254852_609513363_o_profilejkuBdP4.jpg",
+        "nit": "1128397333",
+        "id_user": 4312,
+        "total_take": 0
+    },
+    {
+        "id_person": 950345,
+        "id_company": 1,
+        "nombre": "Hawrisson   Avendaño ",
+        "photo": null,
+        "nit": "1017242387",
+        "id_user": 4896,
+        "total_take": 0
+    },
+    {
+        "id_person": 993460,
+        "id_company": 1,
+        "nombre": "Isabela  Gutierrez Echavarria",
+        "photo": "/files/profile/cropIMG_20201129_204448_029_profileui4pJos.jpg",
+        "nit": "1000100417",
+        "id_user": 8171,
+        "total_take": 0
+    },
+    {
+        "id_person": 1012332,
+        "id_company": 1,
+        "nombre": "JUAN ESTEBAN CHAVARRO MARIN",
+        "photo": "/files/profile/cropjuancho_profileYgBgxDt.jpg",
+        "nit": "1040737708",
+        "id_user": 12213,
+        "total_take": 0
+    },
+    {
+        "id_person": 1012333,
+        "id_company": 1,
+        "nombre": "Santiago  Berrio Agudelo",
+        "photo": "/files/profile/cropsantiago_profilepuoNvRe.jpg",
+        "nit": "1007240818",
+        "id_user": 12214,
+        "total_take": 0
+    },
+    {
+        "id_person": 1012721,
+        "id_company": 1,
+        "nombre": "Sebastian  Martinez Uribe",
+        "photo": "/files/profile/cropWhatsAppImage20211020at100043AM_profileJwevirQ.jpeg",
+        "nit": "1094955422",
+        "id_user": 12245,
+        "total_take": 0
+    }
+]
