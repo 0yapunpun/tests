@@ -1,0 +1,212 @@
+{
+    "widget1635603401329": {
+        "id": 1635603401329,
+        "classes": "widgetE",
+        "styles": "width: 555px; left: 250.641px;",
+        "widgetIndex": "0",
+        "data": {
+            "title": "tabla3",
+            "body": [
+                {
+                    "producto": "ED0520              ",
+                    "descripcion": "RETENEDOR SUSPEN 30-42-10,5 DL.BOXR100-DISCVR100-110-125-ST-PLAT100-125 5S-PLSR135/ENDURANCE_UND",
+                    "cantidad": 62
+                },
+                {
+                    "producto": "ED0522              ",
+                    "descripcion": "RETENEDOR SUSPENSIÓN 31-43-10 DL.PLSR 180 V2009-DTSI-150NS-BOXR150-DISCV 135-125-XR 150/ENDURANCE_UN",
+                    "cantidad": 60
+                },
+                {
+                    "producto": "TP5081              ",
+                    "descripcion": "SELLOS VALVULA.AX4-AX4 EVOLUTION/SUKIPARTS_SETX2",
+                    "cantidad": 55
+                },
+                {
+                    "producto": "GP0589              ",
+                    "descripcion": "RETENEDORES DE BARRAS(30-42-11).CB 110/GENUI_PAR",
+                    "cantidad": 50
+                },
+                {
+                    "producto": "GH0258              ",
+                    "descripcion": "RETENEDOR DE BARRAS (304211).ECO 100 DELUXE KS-ESEURO II/GENUI_UND",
+                    "cantidad": 40
+                },
+                {
+                    "producto": "GP0041              ",
+                    "descripcion": "PEDAL DE CAMBIOS COMPLETO.PULSAR 200NS (MANIA)-NS200 BS IV-200 NS-AS 200-NS200 FI/GENUI_UND",
+                    "cantidad": 31
+                },
+                {
+                    "producto": "YR4960              ",
+                    "descripcion": "BALINERA.6000 C3/REVO_UND",
+                    "cantidad": 30
+                }
+            ]
+        }
+    },
+    "widget1635603404482": {
+        "id": 1635603404482,
+        "classes": "widgetD",
+        "styles": "position: relative; left: 0px; top: 0px; width: 1084px;",
+        "widgetIndex": "1",
+        "data": {
+            "title": "tabla5",
+            "body": [
+                {
+                    "id": 4848,
+                    "id_person": 950029,
+                    "nombre": "Edwin  Serrano Rojas",
+                    "nit": "6",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4849,
+                    "id_person": 950030,
+                    "nombre": "Representaciones De  Fabrica ",
+                    "nit": "10",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4850,
+                    "id_person": 950031,
+                    "nombre": "Contabilidad  IGB ",
+                    "nit": "22",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4851,
+                    "id_person": 950032,
+                    "nombre": "Yuly Yasbleidy Peña Murcia",
+                    "nit": "32",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4852,
+                    "id_person": 950033,
+                    "nombre": "Sebastian  Kiza Lancheros",
+                    "nit": "56",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4853,
+                    "id_person": 950034,
+                    "nombre": "Bernardo Adolfo Buitrago Sanchez",
+                    "nit": "82",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4851,
+                    "id_person": 333,
+                    "nombre": "Yuly Yasbleidy Peña Murcia",
+                    "nit": "32",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4852,
+                    "id_person": 333,
+                    "nombre": "Sebastian  Kiza Lancheros",
+                    "nit": "56",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                },
+                {
+                    "id": 4853,
+                    "id_person": 333,
+                    "nombre": "Bernardo Adolfo Buitrago Sanchez",
+                    "nit": "82",
+                    "bodega": "Bodega General",
+                    "cargo": "Vendedor",
+                    "prospectos": 0,
+                    "cotizaciones": 0,
+                    "visitas": 0,
+                    "correos": 0,
+                    "llamadas": 0,
+                    "recordatorios": 0,
+                    "pqr": 0,
+                    "tareas": 0,
+                    "gestion": 0
+                }
+            ]
+        }
+    }
+}
