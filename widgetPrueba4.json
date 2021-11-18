@@ -1,0 +1,49 @@
+{
+    "widget1635603401666": {
+        "id": 1635603401666,
+        "classes": "widgetE",
+        "styles": "width: 555px; left: 250.641px;",
+        "widgetIndex": "0",
+        "data": {
+            "title": "chart3",
+            "body": [
+                {
+                    "producto": "ED0520              ",
+                    "descripcion": "RETENEDOR SUSPEN 30-42-10,5 DL.BOXR100-DISCVR100-110-125-ST-PLAT100-125 5S-PLSR135/ENDURANCE_UND",
+                    "cantidad": 62
+                },
+                {
+                    "producto": "ED0522              ",
+                    "descripcion": "RETENEDOR SUSPENSIÓN 31-43-10 DL.PLSR 180 V2009-DTSI-150NS-BOXR150-DISCV 135-125-XR 150/ENDURANCE_UN",
+                    "cantidad": 60
+                },
+                {
+                    "producto": "TP5081              ",
+                    "descripcion": "SELLOS VALVULA.AX4-AX4 EVOLUTION/SUKIPARTS_SETX2",
+                    "cantidad": 55
+                },
+                {
+                    "producto": "GP0589              ",
+                    "descripcion": "RETENEDORES DE BARRAS(30-42-11).CB 110/GENUI_PAR",
+                    "cantidad": 50
+                },
+                {
+                    "producto": "GH0258              ",
+                    "descripcion": "RETENEDOR DE BARRAS (304211).ECO 100 DELUXE KS-ESEURO II/GENUI_UND",
+                    "cantidad": 40
+                },
+                {
+                    "producto": "GP0041              ",
+                    "descripcion": "PEDAL DE CAMBIOS COMPLETO.PULSAR 200NS (MANIA)-NS200 BS IV-200 NS-AS 200-NS200 FI/GENUI_UND",
+                    "cantidad": 31
+                },
+                {
+                    "producto": "YR4960              ",
+                    "descripcion": "BALINERA.6000 C3/REVO_UND",
+                    "cantidad": 30
+                }
+            ]
+        }
+    }
+    
+}
