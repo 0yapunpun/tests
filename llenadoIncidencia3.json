@@ -1,0 +1,17 @@
+[
+    {
+        "id": 76,
+        "id_activitie": 129820,
+        "date_begin": "2021-11-03",
+        "date_end": "2021-11-24",
+        "id_user": 12214,
+        "user": "Santiago  Berrio Agudelo",
+        "hour": 1,
+        "state": 2,
+        "id_work": 6,
+        "description": "Diseño",
+        "note": "Cosas Se Muestran ",
+        "photo": "/files/profile/cropsantiago_profilepuoNvRe.jpg",
+        "username": "sberrio"
+    }
+]
