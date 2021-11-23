@@ -1,0 +1,69 @@
+{
+    "detail": [
+        {
+            "id_activity_detail": 200642,
+            "multiple": 0,
+            "id_field": "1551191653215",
+            "seq": 0,
+            "code": "",
+            "question": "Nombre",
+            "parent": null,
+            "order_f": 1,
+            "content": "Hola",
+            "id_master": 0,
+            "id_option": 0,
+            "id_type_field": 1,
+            "web_type": "input-text",
+            "matrix": 0
+        },
+        {
+            "id_activity_detail": 200643,
+            "multiple": 0,
+            "id_field": "1551191654213",
+            "seq": 0,
+            "code": "",
+            "question": "Apellido",
+            "parent": null,
+            "order_f": 2,
+            "content": "Mundo",
+            "id_master": 0,
+            "id_option": 0,
+            "id_type_field": 1,
+            "web_type": "input-text",
+            "matrix": 0
+        },
+        {
+            "id_activity_detail": 200644,
+            "multiple": 0,
+            "id_field": "1551191656982",
+            "seq": 0,
+            "code": "",
+            "question": "Observaciones",
+            "parent": null,
+            "order_f": 3,
+            "content": "Pruebas...",
+            "id_master": 0,
+            "id_option": 0,
+            "id_type_field": 13,
+            "web_type": "textarea",
+            "matrix": 0
+        },
+        {
+            "id_activity_detail": 200645,
+            "multiple": 0,
+            "id_field": "1551191681868",
+            "seq": 0,
+            "code": "",
+            "question": "Notas",
+            "parent": null,
+            "order_f": 4,
+            "content": "Cierre :( :c",
+            "id_master": 0,
+            "id_option": 0,
+            "id_type_field": 13,
+            "web_type": "textarea",
+            "matrix": 0
+        }
+    ],
+    "matrix": []
+}
