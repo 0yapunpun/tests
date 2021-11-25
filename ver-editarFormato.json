@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "message": "",
+  "error": "",
+  "attendFormat": {
+    "detail": [
+      {
+        "id_activity_detail": 354364,
+        "multiple": 0,
+        "id_field": "1636056782022",
+        "seq": 0,
+        "code": "",
+        "question": "Incidente",
+        "parent": "",
+        "order_f": 2,
+        "content": "prueba apis",
+        "id_master": 0,
+        "id_option": 0,
+        "id_type_field": 1,
+        "web_type": "input-text",
+        "matrix": 0
+      },
+      {
+        "id_activity_detail": 354365,
+        "multiple": 0,
+        "id_field": "1636056860546",
+        "seq": 0,
+        "code": "",
+        "question": "Fecha de incidente",
+        "parent": "",
+        "order_f": 3,
+        "content": "2021-11-08",
+        "id_master": 0,
+        "id_option": 0,
+        "id_type_field": 5,
+        "web_type": "input-date",
+        "matrix": 0
+      },
+      {
+        "id_activity_detail": 354366,
+        "multiple": 0,
+        "id_field": "1636056798387",
+        "seq": 0,
+        "code": "",
+        "question": "es nuevo",
+        "parent": "",
+        "order_f": 4,
+        "content": "1",
+        "id_master": 0,
+        "id_option": 0,
+        "id_type_field": 3,
+        "web_type": "checkbox",
+        "matrix": 0
+      },
+      {
+        "id_activity_detail": 354367,
+        "multiple": 0,
+        "id_field": "1636056838576",
+        "seq": 0,
+        "code": "",
+        "question": "",
+        "parent": "",
+        "order_f": 6,
+        "content": "probando apis",
+        "id_master": 0,
+        "id_option": 0,
+        "id_type_field": 13,
+        "web_type": "textarea",
+        "matrix": 0
+      },
+      {
+        "id_activity_detail": 354368,
+        "multiple": 1,
+        "id_field": "1636056817249",
+        "seq": 0,
+        "code": "",
+        "question": "adjuntar imagen",
+        "parent": "",
+        "order_f": 7,
+        "content": "",
+        "id_master": 0,
+        "id_option": 0,
+        "id_type_field": 2,
+        "web_type": "image",
+        "matrix": 0
+      }
+    ],
+    "matrix": [],
+    "next_format": []
+  }
+}
